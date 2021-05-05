@@ -36,6 +36,7 @@
                                      <!-- Deploy User Parameter -->
                                      <username>ShKhati2</username>
                                      <password>ShKhati@1</password>
+					  <objectStoreV2>true</objectStoreV2>
                                      <!-- Environment Parameter -->
                                      <environment>Sandbox</environment>
                                      <applicationName>shubham</applicationName>
